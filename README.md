@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Belhaila 👋 - Aspiring Data Analyst
+# Hi there, I'm Mohammed Belhaila 👋 -  Data Analyst
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://ma.linkedin.com/in/mohammed-belhaila1) 
 
